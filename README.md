@@ -1,26 +1,37 @@
-# 📝 Task Manager (Todo List)
+📝 Todo Task Manager
 
-A simple and user-friendly Task Manager (Todo List) web application built using HTML, CSS, and JavaScript.  
-This application helps users manage daily tasks efficiently with data persistence using browser localStorage.
+A simple and efficient Todo Task Manager web application to help users organize daily tasks, track progress, and improve productivity.
 
----
+🚀 Features
 
-## 🚀 Features
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- Prevent empty task submission
-- Store tasks in localStorage
-- Tasks remain after page refresh
+➕ Add new tasks
 
----
+✏️ Edit existing tasks
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- localStorage
+✅ Mark tasks as completed
 
----
+🗑️ Delete tasks
 
-## 📂 Project Structure
+💾 Persistent storage (Local Storage)
+
+📱 Responsive design (works on mobile & desktop)
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+(Optional: Bootstrap / Tailwind if used)
+
+📂 Project Structure
+todo-task-manager/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+Pages redeploy
